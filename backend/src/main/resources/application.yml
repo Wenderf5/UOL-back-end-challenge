@@ -1,0 +1,5 @@
+spring:
+  applicaion:
+    name: UOL-challenge
+server:
+  port: 8080
